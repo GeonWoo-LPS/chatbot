@@ -1,0 +1,18 @@
+/* Reset */
+body {
+    margin: unset;
+}
+
+/* Component */
+body {
+    background-color: #222222;
+}
+
+.l_wrapper {
+    width: 640px;
+    margin: 150px auto;
+}
+
+.talk {
+    background-color: #EEEEEE;
+}
