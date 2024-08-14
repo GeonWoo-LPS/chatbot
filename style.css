@@ -65,7 +65,7 @@ body {
     font-size: 14px;
     font-weight: bold;
     box-sizing: border-box;
-    color: #666668;
+    color: #666666;
     position: relative;
 }
 
@@ -127,4 +127,5 @@ body {
     bottom: 6px;
     margin: 20px;
     z-index: -1;
+    opacity: 0.5;
 }
